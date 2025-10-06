@@ -53,7 +53,7 @@ ejercicio3MVC/
 │   ├── BaseController.php      # Controlador base
 │   └── EmpleadoController.php  # Controlador de empleados
 ├── views/
-│   ├── partials/
+│   ├── layout/
 │   │   ├── header.php          # Header común
 │   │   └── footer.php          # Footer común
 │   └── empleados/
