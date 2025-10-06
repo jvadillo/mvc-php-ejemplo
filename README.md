@@ -21,6 +21,11 @@ Esta es una versión mejorada de la aplicación de gestión de empleados utiliza
 - **En esta app**: `EmpleadoController.php` recibe las acciones y decide qué hacer
 - **Ejemplo**: `EmpleadoController::index()` pide datos al modelo y carga la vista
 
+### **Diagrama del patrón MVC:**
+
+![Diagrama MVC](mvc-php.png)
+Source: https://www.codemag.com/Article/2205071/Building-MVC-Applications-in-PHP-Laravel-Part-1
+
 ### **Flujo de la aplicación:**
 ```
 Usuario hace clic → Router → Controller → Model → Controller → View → Usuario ve resultado
